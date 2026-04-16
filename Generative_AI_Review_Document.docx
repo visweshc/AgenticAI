@@ -1,0 +1,480 @@
+GENERATIVE AI WORKSHOP - SESSION 1 REVIEW DOCUMENT
+============================================================
+
+SESSION INFORMATION
+==================
+Date: March 22, 2026
+Instructor: Krish Naik
+Assistant Instructor: Monal S
+Topic: Setup Tools and Introduction to Generative AI
+Next Session: Transformers & Advanced Topics
+
+---
+
+PART 1: FUNDAMENTAL CONCEPTS
+=============================
+
+WHAT IS ARTIFICIAL INTELLIGENCE (AI)?
+====================================
+
+Definition:
+----------
+AI systems are computer programs that can learn and make decisions independently
+without human intervention.
+
+Key Characteristics:
+-------------------
+• Learning capability from data
+• Autonomous decision-making
+• Pattern recognition
+• Problem-solving abilities
+
+Role of Code in AI:
+------------------
+• Code provides instructions to AI systems
+• Without code, AI cannot function
+• Code is the foundation that enables AI operations
+• All AI systems require programming to operate
+
+---
+
+WHAT IS GENERATIVE AI?
+======================
+
+Definition:
+----------
+Generative AI is a subfield of Artificial Intelligence that focuses on creating
+new content, rather than just analyzing or classifying existing data.
+
+Position in AI Hierarchy:
+------------------------
+AI (Broad Field)
+├── Machine Learning
+│   ├── Deep Learning
+│   │   ├── Neural Networks
+│   │   └── Generative AI ← Our Focus
+│   └── Traditional ML
+└── Other AI Subfields
+
+Key Capabilities:
+----------------
+• Text generation (articles, stories, code)
+• Image creation and manipulation
+• Audio synthesis
+• Video generation
+• Music composition
+• Design creation
+
+Common Examples:
+---------------
+• ChatGPT, Claude (Text Generation)
+• DALL-E, Midjourney (Image Generation)
+• GitHub Copilot (Code Generation)
+• Suno AI (Music Generation)
+
+---
+
+WHAT IS AGENTIC AI?
+===================
+
+Definition:
+----------
+Agentic AI refers to AI systems that can act autonomously, make decisions, and
+take actions to achieve specific goals without direct human control for each step.
+
+Key Characteristics of Agentic AI:
+----------------------------------
+• Autonomy: Operates independently
+• Goal-oriented: Works toward specific objectives
+• Decision-making: Makes choices without human intervention
+• Action-taking: Executes tasks in the real or digital world
+• Planning: Can create and execute multi-step plans
+
+Agentic AI vs. Generative AI:
+-----------------------------
+Generative AI: Creates content when prompted
+Agentic AI: Takes initiative and acts to achieve goals
+
+Example Comparison:
+------------------
+Generative AI: "Write a blog post about climate change" → Creates text
+Agentic AI: "Increase our social media engagement" → Creates posts, analyzes results, 
+            adjusts strategy, posts content, monitors performance
+
+Real-World Applications:
+-----------------------
+• Autonomous vehicles
+• Personal AI assistants
+• Trading bots
+• Customer service agents
+• Research assistants
+
+---
+
+PART 2: TECHNICAL FOUNDATION
+============================
+
+PYTHON'S ROLE IN AI DEVELOPMENT
+================================
+
+Why Python for AI?
+-----------------
+• Large developer community
+• Extensive pre-built frameworks
+• Research primarily done in Python
+• Reduces development time significantly
+• Easy to learn and use
+
+Popular AI Frameworks in Python:
+-------------------------------
+• TensorFlow (Google)
+• PyTorch (Meta)
+• Scikit-learn
+• Hugging Face Transformers
+• LangChain
+• OpenAI API
+
+Important Clarification:
+-----------------------
+Python ≠ Generative AI
+Python = Programming Language (Tool)
+Generative AI = Field of Study (Domain)
+
+---
+
+DEVELOPMENT ENVIRONMENT SETUP
+=============================
+
+Recommended Tools:
+-----------------
+1. VS Code (Code Editor)
+   • Lightweight and fast
+   • Extensive extensions
+   • Production-ready
+   • Free and open-source
+
+2. Python 3.12+
+   • Latest stable version
+   • Better performance
+   • Modern features
+
+3. UV Package Manager
+   • Modern dependency management
+   • Faster than pip
+   • Better conflict resolution
+   • Lock file support
+
+4. Virtual Environments
+   • Project isolation
+   • Dependency management
+   • Version control
+   • Professional workflow
+
+Installation Methods:
+--------------------
+1. Direct from python.org
+2. Package Manager (Anaconda)
+3. Modern approach with UV (Recommended)
+
+---
+
+PART 3: LEARNING PATH & PROGRESSION
+===================================
+
+THREE-PHASE LEARNING STRUCTURE
+===============================
+
+Phase 1: Setup Phase ✅ COMPLETED
+---------------------------------
+• Tools installation and configuration
+• Environment setup
+• Package management
+• Development workflow establishment
+
+Phase 2: Introduction Phase ✅ COMPLETED
+---------------------------------------
+• Understanding AI concepts
+• Generative AI fundamentals
+• Code's role in AI systems
+• Basic terminology and definitions
+
+Phase 3: Advanced Topics 🔄 NEXT SESSION
+-----------------------------------------
+• Transformer Architecture
+• Attention Mechanisms
+• Encoder-Decoder Structures
+• Self-Attention Concepts
+• Complex Model Implementations
+• Real-world Applications
+• Performance Optimization
+• Practical Exercises and Implementation
+
+---
+
+PART 4: NEXT SESSION PREPARATION
+=================================
+
+SESSION 2: TRANSFORMERS & ADVANCED TOPICS
+==========================================
+
+Expected Topics:
+---------------
+1. Transformer Architecture Deep Dive
+   • Attention mechanisms explained
+   • Multi-head attention
+   • Position encoding
+   • Layer normalization
+
+2. Encoder-Decoder Structures
+   • Sequence-to-sequence models
+   • Translation tasks
+   • Text generation pipelines
+
+3. Self-Attention Concepts
+   • Query, Key, Value vectors
+   • Attention scores calculation
+   • Context understanding
+
+4. Advanced Generative AI
+   • Complex model architectures
+   • Fine-tuning techniques
+   • Transfer learning
+
+5. Real-world Applications
+   • Chatbot development
+   • Content generation systems
+   • Code assistance tools
+
+6. Performance Optimization
+   • Model optimization techniques
+   • Memory management
+   • Inference speed improvements
+
+7. Practical Exercises
+   • Hands-on model building
+   • Code implementation
+   • Model experimentation
+
+---
+
+PREPARATION CHECKLIST
+=====================
+
+Technical Requirements:
+----------------------
+□ Python 3.12+ installed and working
+□ VS Code configured with Python extensions
+□ UV package manager installed
+□ Virtual environment created and activated
+□ Basic Python concepts understood
+
+Conceptual Understanding:
+------------------------
+□ Clear distinction between AI and Generative AI
+□ Understanding of Python's role in AI development
+□ Knowledge of virtual environments importance
+□ Awareness of development workflow
+
+Study Focus Areas:
+-----------------
+1. Python Basics Review
+   • Functions and classes
+   • Data structures (lists, dictionaries)
+   • File operations
+   • Error handling
+
+2. AI Fundamentals
+   • Machine learning basics
+   • Neural network concepts
+   • Training and inference
+
+3. Development Tools
+   • VS Code shortcuts and features
+   • Terminal/command line usage
+   • Git basics (if applicable)
+
+---
+
+PART 5: KEY TAKEAWAYS & SUCCESS METRICS
+=======================================
+
+CONCEPTUAL UNDERSTANDING
+========================
+
+1. AI Hierarchy:
+   AI → Machine Learning → Deep Learning → Generative AI
+
+2. Python's Position:
+   Python is the tool, not the AI itself
+   Python enables AI development
+
+3. Code Importance:
+   Code provides instructions for AI systems
+   Without code, AI cannot function
+
+4. Agentic vs Generative:
+   Generative: Creates content when prompted
+   Agentic: Acts autonomously to achieve goals
+
+TECHNICAL SKILLS DEVELOPED
+==========================
+
+1. Environment Management:
+   • Virtual environments for project isolation
+   • Dependency management with UV
+   • Professional development workflow
+
+2. Development Tools:
+   • VS Code proficiency
+   • Package management
+   • Code organization
+
+3. Best Practices:
+   • Project structure
+   • Version control preparation
+   • Documentation habits
+
+SUCCESS METRICS FOR NEXT SESSION
+=================================
+
+Technical Readiness:
+-------------------
+□ All tools installed and functional
+□ Virtual environment working correctly
+□ Basic Python operations comfortable
+□ VS Code configured and familiar
+
+Conceptual Readiness:
+--------------------
+□ Clear understanding of AI vs Generative AI
+□ Knowledge of Python's role in development
+□ Awareness of agentic AI concepts
+□ Understanding of development workflow
+
+Preparation Goals:
+-----------------
+• Focus on new concepts without setup distractions
+• Comfortable with basic Python syntax
+• Ready for advanced architectural concepts
+• Able to follow complex technical discussions
+
+---
+
+PART 6: ACTION ITEMS & RESOURCES
+=================================
+
+IMMEDIATE ACTIONS (Before Next Session)
+=======================================
+
+Priority 1 - Technical Setup:
+-----------------------------
+□ Verify Python installation (python --version)
+□ Test VS Code Python extension
+□ Create and activate virtual environment
+□ Install basic packages with UV
+
+Priority 2 - Practice:
+--------------------
+□ Write simple Python functions
+□ Create a small project (e.g., calculator, todo app)
+□ Practice VS Code shortcuts
+□ Explore Python documentation
+
+Priority 3 - Concept Review:
+---------------------------
+□ Review AI vs Generative AI differences
+□ Understand agentic AI concepts
+□ Study transformer basics (optional)
+□ Prepare questions for next session
+
+RESOURCES FOR FURTHER LEARNING
+================================
+
+Documentation:
+-------------
+• Python Official Documentation
+• VS Code Documentation
+• UV Package Manager Guide
+• Hugging Face Documentation
+
+Online Courses:
+-------------
+• Deep Learning Specialization (Coursera)
+• Natural Language Processing (Coursera)
+• AI for Everyone (Coursera)
+
+Practice Platforms:
+------------------
+• Kaggle (Datasets and competitions)
+• Hugging Face (Models and datasets)
+• Google Colab (Free GPU access)
+
+Community Support:
+-----------------
+• Workshop Community Forum
+• Stack Overflow
+• Reddit r/MachineLearning
+• GitHub Discussions
+
+---
+
+SESSION NOTES & REFLECTIONS
+===========================
+
+Personal Notes:
+--------------
+[Space for your personal notes and insights from the session]
+
+Questions for Next Session:
+--------------------------
+[Space to write questions that arise during review]
+
+Key Insights Gained:
+-------------------
+[Space for important realizations and understanding]
+
+Areas Needing More Focus:
+------------------------
+[Topics that require additional study or clarification]
+
+---
+
+DOCUMENT INFORMATION
+====================
+
+Document Created: March 28, 2026
+Last Updated: March 28, 2026
+Session Date: March 22, 2026
+Document Purpose: Review and preparation for Session 2
+Target Audience: Workshop Participants
+
+Next Session Focus: Transformers & Advanced Topics
+Preparation Time Recommended: 2-3 hours
+Success Goal: Full readiness for advanced concepts
+
+---
+
+END OF DOCUMENT
+===============
+
+
+
+Key Concepts of RAG
+Architecture: A RAG system connects a Large Language Model (LLM) to a vector database. When a query is made, the LLM retrieves relevant context from this database to generate a more informed and accurate output.
+Core Components: The RAG pipeline consists of three main stages:
+Document Ingestion
+Query Processing
+Generation
+Document Ingestion and Pre-processing
+This is the first and foundational phase, which involves preparing and storing data in the vector database.
+
+Data Sources: Information is gathered from various sources such as PDFs, CSV files, websites, and internal company documents.
+Document Splitting (Chunking):
+The source documents are broken down into smaller, manageable "chunks."
+This is necessary because LLMs have a limited context window (the amount of text they can process at once). Providing smaller, relevant chunks leads to better performance.
+Embedding Generation:
+Each text chunk is converted into a numerical vector using an embedding model (e.g., from OpenAI or Hugging Face). These vectors represent the semantic meaning of the text.
+Storing in Vector Database:
+The generated vectors are stored in a specialized vector database (e.g., Pinecone, ChromaDB, Faiss).
+This database enables efficient searching for similar content based on vector proximity.
+Retrieval: When a user inputs a query, the system uses techniques like cosine similarity or Euclidean distance to find the most relevant text chunks (vectors) from the database to use as context for the LLM.
